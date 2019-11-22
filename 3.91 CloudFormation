@@ -1,0 +1,18 @@
+Simplify repeatedly and predictably tasks
+
+Automate AWS resources
+
+Use Case
+Template File + CloudFormation > Stack
+
+template file = text document
+
+Same template for may stacks
+
+Template library
+
+CloudFormation Designer
+New template
+New VPC to template
+
+

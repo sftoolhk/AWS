@@ -1,0 +1,32 @@
+managed cloud storage service
+store virtualli unlimited
+access any time
+rich security controls
+
+key x object = my-bucket-name
+
+Scaling
+
+Access:
+https://<bucket name>/<region-specific endpoint>/<object key>
+
+Use Cases
+Storing Application Assests
+Static Web Hosting
+Backup & Dissaster Recovery
+Staging area for Big Data
+...
+
+Amazon S3
+    bucket manager
+    
+Download and Upload
+cat
+aws s3 cp <> file location
+aws s3 sync
+
+
+
+
+
+

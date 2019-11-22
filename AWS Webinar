@@ -1,0 +1,37 @@
+Criar uma subnet publica e outra privada
+Apenas o web server fica na publica
+criar um gateway para os outros servidores
+
+Configurações de grupos de segurança
+
+EC2 Instances = servidores
+
+EC2 Family
+C = Processor
+M = Memory
+X = 
+H = Storage
+
+Maquinas mais novas temcusto mais barato e mais desempenho
+
+HDD = Throughput
+SSD = performance
+
+Escalabilidade
+
+Snapshots
+
+Tipos de armazenamento
+EBS
+53
+...
+
+Congelamento de serviço
+mais barato
+
+Nada é apagado no AWS e sim arquivado
+
+
+
+
+

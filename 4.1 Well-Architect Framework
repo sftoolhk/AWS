@@ -1,0 +1,43 @@
+Five pillars and design priciples
+
+Security
+Reliability
+Performance
+Efficiency
+Cost optmization and operational
+
+1. Security pillar
+    Identify and access management (IAM)
+    Detective controls
+    Infrastructure protection
+    Data protection
+    Incidente response
+    
+2. Reliability
+    Implement security at all layers
+    Enable traceability
+    Apply priciple of least privilage
+    Focus on securing your system
+    Automate
+    Test recovery procedures
+    Automatically recover
+    Scale horizontically
+    Stop guessing capacity
+    Manage change in automation
+
+3. Performance and Efficiency
+    Customizable solutions
+    Continually innovate
+    Monitor AWS services
+    Consider the trade-offs
+    Global in minutes
+    
+4. Cost, optmization and operational  
+    Use cost-effective resources
+    Matching supply with demmand
+    Increase expenditure awareness
+    Optimize over time
+
+5. Excellence pillar
+    Manage 
+        

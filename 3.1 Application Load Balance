@@ -1,0 +1,26 @@
+Use Cases
+
+Load Balance use to container aplication
+
+Features
+Supported Protocols
+Cloud Watch Metrics
+Access log
+Health checks
+
+Console AWS
+    Instances
+    Resource Group
+    copy IPv4
+    
+Load Balance
+    Create Load Balance
+    Configure Security Groups
+    Configure Routing
+    Register targets
+    
+Resources Groups
+
+Elastic Load Balance uses to run services in diferents locations
+
+Objetivo rodar diferentes aplicações no mesmo servidor

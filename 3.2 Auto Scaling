@@ -1,0 +1,17 @@
+Console AWS
+
+EC2
+
+Capacity Management
+
+Auto Scaling
+    Launch COnfiguration
+    Auto Scaling Group
+        CloudWatch, Elastic Load Balance, Auto Scaling
+    Auto Scaling Policy
+    
+CloudWatch Alarm for Auto Scaling
+
+
+    
+

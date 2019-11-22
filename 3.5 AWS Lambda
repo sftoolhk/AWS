@@ -1,0 +1,24 @@
+What is lambda?
+    Fully-managed serveless compute
+    Event-driven execution
+    Sub-second metering
+    Multiple languages supported
+
+How
+
+Mobile app
+S3
+AWS Lambda
+    Upload the code 
+    Create functions
+    
+Use Cases
+    Kinesis - stream
+    Lambda
+    API Gateway
+    DynamoDB
+    Redshift
+    SNS
+    
+
+    

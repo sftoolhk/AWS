@@ -1,0 +1,18 @@
+Mutiply servers
+Availability zones
+Regions
+Fault Tolerance and high avaliability
+
+High Availability
+    Elastic load balancers
+    Elastic IP address
+    Amazon route 53
+    Auto scaling
+    CloudWatch
+    
+Fault Tolerance Tools
+    Simple Queue Service
+    Simple Storage Service
+    Relational Database Service
+    
+    

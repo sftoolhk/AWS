@@ -1,0 +1,36 @@
+Amazon VPC
+VPC for AWS Cloud
+Network controller
+Private
+Security
+
+Amazon EC2
+Amazon EMR
+Amazon RDS
+Amazon Workspaces
+Elastic load-balancing
+AWS Opsworks
+Amazon EFS
+AWS Elastic Beanstalk
+Amazon Route 53
+AWS Data Pipeline
+Amazon S3
+Amazon DynamoDB
+Amazon ElastiCache
+
+Amazon VPC
+lives within a Region
+Subnets
+Route tables
+Internet Gateway
+NAT Gateway
+Network Access Control Lists (NACL)
+
+AWS Security
+
+AWS Console
+    Security Group
+        Virtual firewall and rules
+        
+
+

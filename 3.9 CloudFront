@@ -1,0 +1,28 @@
+Use Global Infracstruture for requests
+
+Global, growing network
+Secure content at the edge
+Deep integration with key AWS Services
+High performance
+Cost effective
+Easy to use
+
+CDN
+Distribution button
+
+RTMP
+
+Use Cases
+Static Asset Caching
+Live and On-demand video streaming
+Security and DDoS Protection
+Dynamic and Customized content
+API acceleration
+Software distribution
+
+tail -f
+
+Server more fast
+
+sudo service httpd stop
+sudo service httpd start

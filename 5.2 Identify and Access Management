@@ -1,0 +1,10 @@
+In IAM words = objects
+
+User    Group   Role
+(Permanent)     (Temporaly)
+    Police Document
+    
+Authentication x Authorization (Role)
+
+
+

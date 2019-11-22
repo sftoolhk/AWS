@@ -1,0 +1,42 @@
+Protection DDoS
+Safeguards application
+
+Identify Good Users
+Block attacker
+
+DDoS mitigation challenges
+    Complex setup and implementation
+    Bandwidth limitations
+    Manual intervention
+    Time consuming
+    Degraded performance
+    Expensive
+    
+AWS Shield Standard
+    Automatic protection
+    Always-on
+    Inline attack mitigation
+    Self service
+    Disponible for all customers
+    
+AWS Shield Advanced
+    Specialized suppor
+    Advanced attack mitigation
+    Visibility and attack notification
+    Enhanced detection
+    DDoS cost protection
+    
+Cost efficient
+Seamless integration and deployment
+Costumizable protection
+
+Protection your DNS (Route 53) with AWS Shield
+
+Protecting web applications and API's
+CloudFront or LoadBalancer
+
+Protecting other applications using elastic IP address
+
+
+
+

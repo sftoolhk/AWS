@@ -1,0 +1,105 @@
+1. Who is reponsible for security of the cloud according to the shared resposibility model?
+Customer
+
+2. Which of the pillars of the Well-Architected Frame work is defined as the ability to run and monitor systems to deliver business value and to continually improve supporting processes and procedures?
+Operational excellence 
+
+3. What is Amazon Route 53?
+A highly available and scalable Domain Name SYstem (DNS) web service.
+
+4. Which component of the AWS global infrastructure supports the caching of content for faster access?
+Edge locations
+
+5. Users of your services are reporting latency. With on-premises architecture you would notify your Administrator to launch another server to balance the load. How can this be automated using AWS?
+Enable an Amazon CloudWatch alarm to trigger a scaling policy.
+
+6. Which service provides persistent block storage volumes for use with Amazon EC2 instances?
+Amazon EBS
+
+7. Which of the following components is included in the value proposition of the AWS Cloud?
+Massive economies of scale
+
+8. Which of the following defines the AWS Command Line Interfaces (AWS CLI)?
+Packages that enable access to AWS in a variety of programming languages ERROR
+A suite of utilities that can be launched from a command program in Linux, MacOS or Windows.
+
+9. Which of the following AWS concepts refers to "Established best practices developed through lessosns learnes by working with customers"?
+Well-Architect Framework
+
+10. A company has 70 employees divided into 10 departments. The IT administrator wants to customize each department's access to AWS. Whichof the following options is most appropriate?
+Create an IAM group for each department, and assign IAM users to the groups.
+
+11. You have an application composed of individual services and you need to route a request to a service based on the content of the request. What type of load balancer should you use?
+VPN Load Balancer ERROR
+Classic Load Balancer ERROR
+Application Load Balancer
+
+12. Which method would you use to access AWS services through an easy-to use graphical interface?
+AWS Management Console
+
+13. You have been tasked with distributing a newsletter that will be pushed out to administrator by email. Which of the following is the bes solution?
+Create a topic in Amazon Simple Notification Service (Amazon SNS) that administrators can subscribe to.
+
+14. Which parts of the AWS infrastructure support increased resilience?
+Multiple Regions distributed globally ERROR
+Multiple Availability Zones within a Region
+
+15. What is Elastic Load Balancing?
+Automatically monitoring traffic to ensure that costs are kept beneath a specified threshold ERROR
+Automatically distributing traffic across multiple targets
+
+16. Which of the following is a best practice for adding an additional layer of security when logging into the AWS Management Console?
+Root access permissions ERROR
+Secondary user name ERROR
+MFA
+
+17. Which of the following AWS services has no additional charge associated with it's use? (The resources provisioned within the service may incur costs.)
+Identify and Access Management (IAM)
+
+18. Which of the following instances types provides you with a significant discount compared to On-demand Instance pricing?
+Amazon EC2 Instant Instances ERROR
+Amazon EC2 Reserved Instances
+
+19. Which of the following tasks is the customer's resposibility when creating Amazon VPC security groups?
+Adding rules regarding inbound traffic to the security group
+
+20. Which category of services includes Amazon S3?
+Storage
+
+21. Which of the following services provides you with data and actionable insights to monitor your applications, understand and respond to system-wide performance changes, optimize resource utilization, and get a unified view of operational health?
+Amazon CloudWatch
+
+22.Which of the following options describes the most common AWS billing model?
+Pay as you go
+
+23. How is storage typically priced on AWS Cloud?
+Charged per GB
+
+24. Which of the following is a responsibility of the customer according to the shared responsibility model?
+Protection of the global infrastructure ERROR
+Availability of third-party audit reports ERROR
+IAM
+
+25. Which AWS service enables you to repeatedly and predictably provision resources to power your applications?
+AWS CloudFormation
+
+26. which of the following examples best demonstrates the agility that cloud computing offers?
+Spin up servers in minutes, and shut down servers when you don't need them.
+
+27. Which service sends notifications or automatically makes changes to the resource being monitored based on rules you established?
+Amazon CloudWatch
+
+28. Your company is developing a critical application, and the security of the application is one of the top priorities. Which of the following AWS services will provide recommendations for security optimization for your infrastructure?
+Amazon Inspector ERROR
+AWS Trusted Advisor
+
+29. Which AWS service is a managed DDoS protection service that safeguards applications running on AWS?
+AWS Shield
+
+30. Which of the following use cases is appropriate for Amazon CloudFront?
+Live on-demand video streaming
+Static asset caching
+Auto Scaling ERROR
+Security
+
+

@@ -1,0 +1,62 @@
+key services
+
+elastic comput cloud
+EC2 Instances
+aws.amazon.com/ec2
+
+How to build?
+Login AWS Console
+Choose a region
+Launch EC2 wizard
+Select AMI (SW)
+Select instance type (HW)
+Configure network
+Configure storage
+Configure key pairs
+Launch & connect
+
+SSH Autenthication
+ec2-user@...
+
+Elastic Block Store
+
+Avaliabity
+
+Drive types
+HDD
+SSD
+
+Snapshots - for disaster recovery
+
+Elasticity 
+
+AWS Panel - console.aws.amazon.com
+    EC2
+        Instances
+        Volumes > Create Volumes
+
+Action
+
+Connect 
+    ssh
+    
+lsblk /dev/sdb
+mke2fs
+sudo !!
+mount /dev/sdb /mnt
+vi test.txt
+
+Attach Volume
+Detach Volume
+
+Beneficts Amazon EC2
+Pay for your use
+Abaility to have different storage requirements
+
+
+
+
+
+
+
+

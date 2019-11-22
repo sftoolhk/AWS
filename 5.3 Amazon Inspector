@@ -1,0 +1,30 @@
+IT security challenges
+    Complex
+    Expensive
+    Time consuming - build, configure, maintain
+    Difficult to track all the changes in IT environment
+    Hard to do effectively
+    
+Amazon Inspector
+    Assesses applications for:
+        Vulnerabilities
+        Deviations from best practices
+        
+    Produces a detailed report with:
+        Security findings
+        Prioritized steps for remediation
+        
+AWS Shared Responsibility Model
+
+Amazon Inspector benefits
+    Identify application security issues
+    Integrate into DevOps
+    Increase development agility
+    Leverage AWS security expertise
+    Streamline security compliance
+    Enforce security standarts
+    
+Built-in rules
+
+
+
